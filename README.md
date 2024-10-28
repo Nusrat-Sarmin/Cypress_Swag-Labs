@@ -17,6 +17,7 @@ open vs code terminal and run the command:
 
 ```bash
 npm init -y
+```
 
 Install cypress
 
@@ -25,8 +26,8 @@ npm install cypress
 ```bash
 npx cypress -v
 open cypress
-
-
+```
 ```bash
 npx cypress open
+```
 
