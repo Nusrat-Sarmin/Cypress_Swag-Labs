@@ -25,8 +25,8 @@ npm install cypress
 ```bash
 npx cypress -v
 open cypress
-```bash
+
 
 ```bash
 npx cypress open
-```bash
+
