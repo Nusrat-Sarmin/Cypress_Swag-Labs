@@ -1,4 +1,4 @@
-# cypress_Swag-Labs
+# Cypress_Swag-Labs
 # Prerequisite
 Node.js
 
