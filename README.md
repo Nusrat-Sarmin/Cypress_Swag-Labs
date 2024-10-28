@@ -31,3 +31,6 @@ open cypress
 npx cypress open
 ```
 
+View Report
+<img width="903" alt="Cypress_Project" src="https://user-images.githubusercontent.![Cypress_Project](https://github.com/user-attachments/assets/ee40bcc2-483f-4c65-a878-2da672cf63e3)
+">
