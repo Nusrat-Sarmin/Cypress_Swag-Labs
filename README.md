@@ -31,7 +31,7 @@ open cypress
 npx cypress open
 ```
 
-View Report
+# View Report
 
 
 
