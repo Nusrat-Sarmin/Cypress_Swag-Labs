@@ -19,14 +19,4 @@ describe("Adding product to the cart",()=>{
          productPage.clickCancel();
          addToCart.userInDashboard();
      })
-    //  it("Verify Product Purchase is Cancelled",()=>{
-    //     addToCart.userInDashboard();
-    //     addToCart.viewProduct();
-    //     addToCart.addingToCart();
-    //     addToCart.cartPage();
-    //     addToCart.gooingToCheckoutPage();
-    //     productPage.addUserInfo("Nusrat","Sarmin","444");
-    //     productPage.clickCancel();
-    //     addToCart.userInDashboard();
-    //  })
     })
